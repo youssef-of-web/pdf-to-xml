@@ -1,0 +1,19 @@
+{
+  "name": "pdftojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "mansouri youssef",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "js2xmlparser": "^4.0.1",
+    "nodemon": "^2.0.12",
+    "pdf2json": "^1.2.4"
+  }
+}
